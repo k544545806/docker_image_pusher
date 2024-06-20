@@ -1,2 +1,4 @@
 #phidata专用pgvector数据库
 phidata/pgvector:16
+#WordPress
+wordpress:latest
