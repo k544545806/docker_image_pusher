@@ -2,3 +2,4 @@
 phidata/pgvector:16
 #WordPress
 wordpress:latest
+mysql:5.7.17
