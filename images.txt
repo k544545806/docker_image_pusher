@@ -6,3 +6,4 @@ mysql:5.7.17
 rabbitmq:3.13.4-management
 postgres:15
 odoo:17.0
+redis:latest
