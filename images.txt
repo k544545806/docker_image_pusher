@@ -8,3 +8,4 @@ postgres:15
 odoo:17.0
 redis:latest
 nginx:latest
+onlyoffice/documentserver:latest
