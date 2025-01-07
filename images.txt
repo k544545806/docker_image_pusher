@@ -1,10 +1,12 @@
-mysql:8.0.29
-elasticsearch:7.16.3
-onlyoffice/communityserver:12.6.0.1900
-onlyoffice/documentserver:8.1
-onlyoffice/mailserver:1.6.75
-onlyoffice/controlpanel:3.5.2.530
+#mysql:8.0.29
+#elasticsearch:7.16.3
+#onlyoffice/communityserver:12.6.0.1900
+#onlyoffice/documentserver:8.1
+#onlyoffice/mailserver:1.6.75
+#onlyoffice/controlpanel:3.5.2.530
 
+elasticsearch:7.6.2
+nacos/nacos-server:latest
 
 
 #phidata专用pgvector数据库
