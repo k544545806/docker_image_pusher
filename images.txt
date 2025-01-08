@@ -6,7 +6,8 @@
 #onlyoffice/controlpanel:3.5.2.530
 
 #elasticsearch:7.6.2
-nacos/nacos-server:v2.0.3
+elasticsearch:8.8.2
+#nacos/nacos-server:v2.0.3
 
 
 #phidata专用pgvector数据库
