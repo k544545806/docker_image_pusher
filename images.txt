@@ -6,9 +6,11 @@
 #onlyoffice/controlpanel:3.5.2.530
 
 #elasticsearch:7.6.2
-elasticsearch:8.8.2
+#elasticsearch:8.8.2
 #nacos/nacos-server:v2.0.3
 
+redis:7.4.1
+nacos/nacos-server:v2.4.3
 
 #phidata专用pgvector数据库
 #phidata/pgvector:16
@@ -21,3 +23,6 @@ elasticsearch:8.8.2
 #redis:latest
 #nginx:latest
 #onlyoffice/documentserver:latest
+
+
+
