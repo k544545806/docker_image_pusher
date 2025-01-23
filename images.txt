@@ -9,8 +9,8 @@
 #elasticsearch:8.8.2
 #nacos/nacos-server:v2.0.3
 
-redis:7.4.1
-nacos/nacos-server:v2.4.3
+#redis:7.4.1
+#nacos/nacos-server:v2.4.3
 
 #phidata专用pgvector数据库
 #phidata/pgvector:16
@@ -25,4 +25,4 @@ nacos/nacos-server:v2.4.3
 #onlyoffice/documentserver:latest
 
 
-
+programzmh/chatnio:latest
