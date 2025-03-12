@@ -1,4 +1,18 @@
+# ARM64 Apple M系列CPU
+--platform linux/arm64/v8 mysql:8.0.29
+--platform linux/arm64/v8 elasticsearch:8.17.3
+--platform linux/arm64/v8 redis:7.4.1
+--platform linux/arm64/v8 rabbitmq:3.13.7-management
+--platform linux/arm64 nacos/nacos-server:v2.4.3
+
+# AMD64 Intel 和 AMD
 #mysql:8.0.29
+#elasticsearch:8.8.2
+#redis:7.4.1
+#rabbitmq:3.13.4-management
+#nacos/nacos-server:v2.4.3
+
+
 #elasticsearch:7.16.3
 #onlyoffice/communityserver:12.6.0.1900
 #onlyoffice/documentserver:8.1
@@ -6,18 +20,13 @@
 #onlyoffice/controlpanel:3.5.2.530
 
 #elasticsearch:7.6.2
-#elasticsearch:8.8.2
 #nacos/nacos-server:v2.0.3
-
-#redis:7.4.1
-#nacos/nacos-server:v2.4.3
 
 #phidata专用pgvector数据库
 #phidata/pgvector:16
 #WordPress
 #wordpress:latest
 #mysql:5.7.17
-#rabbitmq:3.13.4-management
 #postgres:15
 #odoo:17.0
 #redis:latest
@@ -25,4 +34,4 @@
 #onlyoffice/documentserver:latest
 
 
-programzmh/chatnio:latest
+#programzmh/chatnio:latest
