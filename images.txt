@@ -1,9 +1,9 @@
 # ARM64 Apple M系列CPU
---platform linux/arm64/v8 mysql:8.0.29
---platform linux/arm64/v8 elasticsearch:8.17.3
---platform linux/arm64/v8 redis:7.4.1
---platform linux/arm64/v8 rabbitmq:3.13.7-management
---platform linux/arm64 nacos/nacos-server:v2.4.3
+#--platform linux/arm64/v8 mysql:8.0.29
+#--platform linux/arm64/v8 redis:7.4.1
+#--platform linux/arm64/v8 rabbitmq:3.13.7-management
+#--platform linux/arm64 nacos/nacos-server:v2.4.3
+--platform linux/arm64 elasticsearch:8.8.2
 
 # AMD64 Intel 和 AMD
 #mysql:8.0.29
